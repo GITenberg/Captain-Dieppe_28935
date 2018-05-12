@@ -1,0 +1,32 @@
+_repo: Captain-Dieppe_28935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: In this 1899 adventure the eponymous hero, a French soldier of fortune,
+  finds himself catapulted into the midst of intrigue and romance after chancing to
+  spend a night at the Castle of Fieramondi. Riveting characters and an inspired plot
+  make this one of Hope's most distinguishing novels.
+gutenberg_issued: '2009-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers of fortune -- Fiction'
+- !lcsh 'Mistaken identity -- Fiction'
+- !lcc 'PR'
+title: Captain Dieppe
+url: http://www.gutenberg.org/ebooks/28935
